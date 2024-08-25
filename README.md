@@ -11,11 +11,7 @@ This Unity project implements a 2D tilemap generator using the Wave Function Col
 
 ## Demo
 
-[![Wave Function Collapse Tilemap Generator](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
-*Click the image above to watch a demo video on YouTube.*
-
-> Replace `VIDEO_ID` with the actual ID of your YouTube video.
+https://github.com/user-attachments/assets/7cfe957b-1436-471c-aa35-a8e35fac9954
 
 ## How It Works
 
